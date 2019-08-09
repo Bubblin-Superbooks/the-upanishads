@@ -1,0 +1,2066 @@
+[
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>This volume is reverently dedicated to all seekers of truth and\nlovers of wisdom</p>"
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Preface"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The translator's idea of rendering the Upanishads into clear\nsimple English, accessible to Occidental readers, had its origin\nin a visit paid to a Boston friend in 1909. The gentleman, then\nbattling with a fatal malady, took from his library shelf a\ntranslation of the Upanishads and, opening it, expressed deep\nregret that the obscure and unfamiliar form shut from him what he\nfelt to be profound and vital teaching."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The desire to unlock the closed doors of this ancient treasure\nhouse, awakened at that time, led to a series of classes on the\nUpanishads at The Vedanta Centre of Boston during its early days\nin St. Botolph Street. The translation and commentary then given\nwere transcribed and, after studious revision, were published in\nthe Centre's monthly magazine, \"The Message of the East,\" in 1913\nand 1914.. Still further revision has brought it to its present\nform."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "So far as was consistent with a faithful rendering of the\nSanskrit text, the Swami throughout his translation has sought to\neliminate all that might seem obscure and confusing to the modern\nmind. While retaining in remarkable measure the rhythm and\narchaic force of the lines, he has tried not to sacrifice\ndirectness and simplicity of style. Where he has been obliged to\nuse the Sanskrit term for lack of an exact English equivalent, he\nhas invariably interpreted it by a familiar English word in\nbrackets; and everything has been done to remove the sense of\nstrangeness in order that the Occidental reader may not feel\nhimself an alien in the new regions of thought opened to him."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Even more has the Swami striven to keep the letter subordinate to\nthe spirit. Any Scripture is only secondarily an historical\ndocument. To treat it as an object of mere intellectual curiosity\nis to cheat the world of its deeper message. If mankind is to\nderive the highest benefit from a study of it, its appeal must be\nprimarily to the spiritual consciousness; and one of the salient\nmerits of the present translation lies in this, that the\ntranslator approaches his task not only with the grave concern of\nthe careful scholar, but also with the profound reverence and\nfervor of the true devotee."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Editor"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Boston, March, 1919"
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Introduction"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The Upanishads represent the loftiest heights of ancient\nIndo-Aryan thought and culture. They form the wisdom portion or\nGnana-Kanda of the Vedas, as contrasted with the Karma-Kanda or\nsacrificial portion. In each of the four great Vedas—known as\nRik, Yajur, Sama and Atharva—there is a large portion which\ndeals predominantly with rituals and ceremonials, and which has\nfor its aim to show man how by the path of right action he may\nprepare himself for higher attainment. Following this in each\nVeda is another portion called the Upanishad, which deals wholly\nwith the essentials of philosophic discrimination and ultimate\nspiritual vision. For this reason the Upanishads are known as the\nVedanta, that is, the end or final goal of wisdom (Veda, wisdom;\nanta, end)."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The name Upanishad has been variously interpreted. Many claim\nthat it is a compound Sanskrit word Upa-ni-shad, signifying\n\"sitting at the feet or in the presence of a teacher\"; while\naccording to other authorities it means \"to shatter\" or \"to\ndestroy\" the fetters of ignorance. Whatever may have been the\ntechnical reason for selecting this name, it was chosen\nundoubtedly to give a picture of aspiring seekers \"approaching\"\nsome wise Seer in the seclusion of an Himalayan forest, in order\nto learn of him the profoundest truths regarding the cosmic\nuniverse and God. Because these teachings were usually given in\nthe stillness of some distant retreat, where the noises of the\nworld could not disturb the tranquillity of the contemplative\nlife, they are known also as Aranyakas, Forest Books. Another\nreason for this name may be found in the fact that they were\nintended especially for the Vanaprasthas (those who, having\nfulfilled all their duties in the world, had retired to the\nforest to devote themselves to spiritual study)."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The form which the teaching naturally assumed was that of\ndialogue, a form later adopted by Plato and other Greek\nphilosophers. As nothing was written and all instruction was\ntransmitted orally, the Upanishads are called Srutis, \"what is\nheard.\" The term was also used in the sense of revealed, the\nUpanishads being regarded as direct revelations of God; while the\nSmritis, minor Scriptures \"recorded through memory,\" were\ntraditional works of purely human origin. It is a significant\nfact that nowhere in the Upanishads is mention made of any author\nor recorder."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "No date for the origin of the Upanishads can be fixed, because\nthe written text does not limit their antiquity. The word Sruti\nmakes that clear to us. The teaching probably existed ages before\nit was set down in any written form. The text itself bears\nevidence of this, because not infrequently in a dialogue between\nteacher and disciple the teacher quotes from earlier Scriptures\nnow  to us. As Professor Max M�ller states in his lectures\non the Vedanta Philosophy: \"One feels certain that behind all\nthese lightning-flashes of religious and philosophic thought\nthere is a distant past, a dark background of which we shall\nnever know the beginning.\" Some scholars place the Vedic period\nas far back as 4000 or 5000 B.C.; others from 2000 to 1400 B.C.\nBut even the most conservative admit that it antedates, by\nseveral centuries at least, the Buddhistic period which begins in\nthe sixth century B.C."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The value of the Upanishads, however, does not rest upon their\nantiquity, but upon the vital message they contain for all times\nand all peoples. There is nothing peculiarly racial or local in\nthem. The ennobling lessons of these Scriptures are as practical\nfor the modern world as they were for the Indo-Aryans of the\nearliest Vedic age. Their teachings are summed up in two\nMaha-Vakyam or \"great sayings\":—Tat twam asi (That thou art) and\nAham Brahmasmi (I am Brahman). This oneness of Soul and God lies\nat the very root of all Vedic thought, and it is this dominant\nideal of the unity of all life and the oneness of Truth which\nmakes the study of the Upanishads especially beneficial at the\npresent moment."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "One of the most eminent of European Orientalists writes: \"If we\nfix our attention upon it (this fundamental dogma of the Vedanta\nsystem) in its philosophical simplicity as the identity of God\nand the Soul, the Brahman and the Atman, it will be found to\npossess a significance reaching far beyond the Upanishads, their\ntime and country; nay, we claim for it an inestimable value for\nthe whole race of mankind."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Whatever new and unwonted paths the philosophy of the future may\nstrike out, this principle will remain permanently unshaken and\nfrom it no deviation can possibly take place. If ever a general\nsolution is reached of the great riddle . . . the key can only be\nfound where alone the secret of nature lies open to us from\nwithin, that is to say, in our innermost self. It was here that\nfor the first time the original thinkers of the Upanishads, to\ntheir immortal honor, found it....\""
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The first introduction of the Upanishads to the Western world was\nthrough a translation into Persian made in the seventeenth\ncentury. More than a century later the distinguished French\nscholar, Anquetil Duperron, brought a copy of the manuscript from\nPersia to France and translated it into French and Latin.\nPublishing only the Latin text. Despite the distortions which\nmust have resulted from transmission through two alien languages,\nthe light of the thought still shone with such brightness that it\ndrew from Schopenhauer the fervent words: \"How entirely does the\nOupnekhat (Upanishad) breathe throughout the holy spirit of the\nVedas! How is every one, who by a diligent study of its Persian\nLatin has become familiar with that incomparable book, stirred by\nthat spirit to the very depth of his Soul! From every sentence\ndeep, original and sublime thoughts arise, and the whole is\npervaded by a high and holy and earnest spirit.\" Again he says:\n\"The access to (the Vedas) by means of the Upanishads is in my\neyes the greatest privilege which this still young century (1818)\nmay claim before all previous centuries.\" This testimony is borne\nout by the thoughtful American scholar, Thoreau, who writes:\n\"What extracts from the Vedas I have read fall on me like the\nlight of a higher and purer luminary which describes a loftier\ncourse through a purer stratum  free from particulars, simple,\nuniversal.\""
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The first English translation was made by a learned Hindu, Raja\nRam Mohun Roy (1775-1833). Since that time there have been\nvarious European translations—French, German, Italian and\nEnglish. But a mere translation, however accurate and\nsympathetic, is not sufficient to make the Upanishads accessible\nto the Occidental mind. Professor Max M�ller after a lifetime of\narduous labor in this field frankly confesses: \"Modern words are\nround, ancient words are square, and we may as well hope to solve\nthe quadrature of the circle, as to express adequately the\nancient thought of the Vedas in modern English.\""
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Without a commentary it is practically impossible to understand\neither the spirit or the meaning of the Upanishads. They were\nnever designed as popular Scriptures. They grew up essentially as\ntext books of God-knowledge and Self-knowledge, and like all text\nbooks they need interpretation. Being transmitted orally from\nteacher to disciple, the style was necessarily extremely\ncondensed and in the form of aphorisms. The language also was\noften metaphorical and obscure. Yet if one has the perseverance\nto penetrate beneath these mere surface difficulties, one is\nrepaid a hundredfold; for these ancient Sacred Books contain the\nmost precious gems of spiritual thought."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Every Upanishad begins with a Peace Chant (Shanti-patha) to\ncreate the proper atmosphere of purity and serenity. To study\nabout God the whole nature must be prepared, so unitedly and with\nloving hearts teacher and disciples prayed to the Supreme Being\nfor His grace and protection. It is not possible to comprehend\nthe subtle problems of life unless the thought is tranquil and\nthe energy concentrated. Until our mind is withdrawn from the\nvaried distractions and agitations of worldly affairs, we cannot\nenter into the spirit of higher religious study. No study is of\navail so long as our inner being is not attuned. We must hold a\npeaceful attitude towards all living things; and if it is\nlacking, we must strive fervently to cultivate it through\nsuggestion by chanting or repeating some holy text. The same\nlesson is taught by Jesus the Christ when He says: \"If thou bring\nthy gift to the altar and there rememberest that thy brother hath\naught against thee; leave there thy gift before the altar and go\nthy way; first be reconciled to thy brother, and then come and\noffer thy gift.\""
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Bearing this lofty ideal of peace in our minds, let us try to\nmake our hearts free from prejudice, doubt and intolerance, so\nthat from these sacred writings we may draw in abundance\ninspiration, love and wisdom."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Paramananda"
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Isa-upanishad"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "This Upanishad desires its title from the opening words\nIsa-vasya, \"God-covered.\"  The use of Isa (Lord)—a more personal\nname of the Supreme Being than Brahman, Atman or Self, the names\nusually found in the Upanishads—constitutes one of its\npeculiarities.   It forms the closing chapter of the Yajur-Veda,\nknown as Shukla (White)."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Oneness of the Soul and God, and the value of both faith and\nworks as means of ultimate attainment are the leading themes of\nthis Upanishad.   The general teaching of the Upanishads is that\nworks alone, even the highest, can bring only temporary happiness\nand must inevitably bind a man unless through them he gains\nknowledge of his real Self.   To help him acquire this knowledge\nis the aim of this and all Upanishads."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Isa-upanishad"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Peace Chant"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OM!  That (the Invisible-Absolute) is whole; whole is this (the\nvisible phenomenal); from the Invisible Whole comes forth the\nvisible whole.  Though the visible whole has come out from that\nInvisible Whole, yet the Whole remains unaltered."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OM!  PEACE!  PEACE!  PEACE!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The indefinite term \"That\" is used in the Upanishads to designate the\nInvisible-Absolute, because no word or name can fully define It.  A finite\nobject, like a table or a tree, can be defined; but God, who is infinite and\nunbounded, cannot be expressed by finite language.  Therefore the Rishis or\nDivine Seers, desirous not to limit the Unlimited, chose the indefinite term\n\"That\" to designate the Absolute."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "In the light of true wisdom the phenomenal and the Absolute are inseparable.\nAll existence is in the Absolute; and whatever exists, must exist in It; hence\nall manifestation is merely a modification of the One Supreme Whole, and\nneither increases nor diminishes It.  The Whole therefore remains unaltered."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "All this, whatsoever exists in the universe, should be covered by\nthe Lord.  Having renounced (the unreal), enjoy (the Real).  Do\nnot covet the wealth of any man."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "We cover all things with the Lord by perceiving the Divine Presence\neverywhere.  When the consciousness is firmly fixed in God, the conception of\ndiversity naturally drops away; because the One Cosmic Existence shines\nthrough all things.  As we gain the light of wisdom, we cease to cling to the\nunrealities of this world and we find all our joy in the realm of Reality."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The word \"enjoy\" is also interpreted by the great commentator Sankaracharya as\n\"protect,\" because knowledge of our true Self is the greatest protector and\nsustainer.  If we do not have this knowledge, we cannot be happy; because\nnothing on this external plane of phenomena is permanent or dependable.  He\nwho is rich in the knowledge of the Self does not covet external power or\npossession."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "II"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "If one should desire to live in this world a hundred years, one\nshould live performing Karma (righteous deeds).  Thus thou mayest\nlive; there is no other way.  By doing this, Karma (the fruits of\nthy actions) will not defile thee."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "If a man still clings to long life and earthly possessions, and\nis therefore unable to follow the path of Self-knowledge\n(Gnana-Nishta) as prescribed in the first Mantram (text), then he\nmay follow the path of right action (Karma-Nishta).  Karma here\nmeans actions performed without selfish motive, for the sake of\nthe Lord alone.  When a man performs actions clinging blindly to\nhis lower desires, then his actions bind him to the plane of\nignorance or the plane of birth and death; but when the same\nactions are performed with surrender to God, they purify and\nliberate him."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "III"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "After leaving their bodies, they who have killed the Self go to\nthe worlds of the Asuras, covered with blinding ignorance."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The idea of rising to bright regions as a reward for well-doers, and of\nfalling into realms of darkness as a punishment for evil-doers is common to\nall great religions.  But Vedanta claims that this condition of heaven and\nhell is only temporary; because our actions, being finite, can produce only a\nfinite result."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "What does it mean \"to kill the Self?\" How can the immortal Soul ever be\ndestroyed? It cannot be destroyed, it can only be obscured.  Those who hold\nthemselves under the sway of ignorance, who serve the flesh and neglect the\nAtman or the real Self, are not able to perceive the effulgent and\nindestructible nature of their Soul; hence they fall into the realm where the\nSoul light does not shine.  Here the Upanishad shows that the only hell is\nabsence of knowledge.  As long as man is overpowered by the darkness of\nignorance, he is the slave of Nature and must accept whatever comes as the\nfruit of his thoughts and deeds.  When he strays into the path of unreality,\nthe Sages declare that he destroys himself; because he who clings to the\nperishable body and regards it as his true Self must experience death many\ntimes."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "IV"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "That One, though motionless, is swifter than the mind.  The\nsenses can never overtake It, for It ever goes before.  Though\nimmovable, It travels faster than those who run.  By It the\nall-pervading air sustains all living beings."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "This verse explains the character of the Atman or Self.  A finite\nobject can be taken from one place and put in another, but it can\nonly occupy one space at a time.  The Atman, however, is present\neverywhere; hence, though one may run with the greatest swiftness\nto overtake It, already It is there before him."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Even the all-pervading air must be supported by this Self, since\nIt is infinite; and as nothing can live without breathing air,\nall living things must draw their life from the Cosmic Self."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "V"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It moves and It moves not.  It is far and also It is near.  It is\nwithin and also It is without all this."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It is near to those who have the power to understand It, for It dwells in the\nheart of every one; but It seems far to those whose mind is covered by the\nclouds of sensuality and self-delusion.  It is within, because It is the\ninnermost Soul of all creatures; and It is without as the essence of the whole\nexternal universe, infilling it like the all-pervading ether."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "VI"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He who sees all beings in the Self and the Self in all beings, he\nnever turns away from It (the Self)."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "VII"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He who perceives all beings as the Self for him how can there be\ndelusion or grief, when he sees this oneness (everywhere)?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He who perceives the Self everywhere never shrinks from anything, because\nthrough his higher consciousness he feels united with all life.  When a man\nsees God in all beings and all beings in God, and also God dwelling in his own\nSoul, how can he hate any living thing? Grief and delusion rest upon a belief\nin diversity, which leads to competition and all forms of selfishness.  With\nthe realization of oneness, the sense of diversity vanishes and the cause of\nmisery is removed."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "VIII"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He (the Self) is all-encircling, resplendent, bodiless, spotless,\nwithout sinews, pure, untouched by sin, all-seeing, all-knowing,\ntranscendent, self-existent; He has disposed all things duly for\neternal years."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "This text defines the real nature of the Self.  When our mind is cleansed from\nthe dross of matter, then alone can we behold the vast, radiant, subtle,\never-pure and spotless Self, the true basis of our existence."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "IX"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "They enter into blind darkness who worship Avidya (ignorance and\ndelusion); they fall, as it were, into greater darkness who\nworship Vidya (knowledge)."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "X"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "By Vidya one end is attained; by Avidya, another.  Thus we have\nheard from the wise men who taught this."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XI"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He who knows at the same time both Vidya and Avidya, crosses over\ndeath by Avidya and attains immortality through Vidya."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Those who follow or \"worship\" the path of selfishness and pleasure (Avidya),\nwithout knowing anything higher, necessarily fall into darkness; but those who\nworship or cherish Vidya (knowledge) for mere intellectual pride and\nsatisfaction, fall into greater darkness, because the opportunity which they\nmisuse is greater."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "In the subsequent verses Vidya and Avidya are used in something the same sense\nas \"faith\" and \"works\" in the Christian Bible; neither alone can lead to the\nultimate goal, but when taken together they carry one to the Highest.  Work\ndone with unselfish motive purifies the mind and enables man to perceive his\nundying nature.  From this he gains inevitably a knowledge of God, because the\nSoul and God are one and inseparable; and when he knows himself to be one with\nthe Supreme and Indestructible Whole, he realizes his immortality."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XII"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "They fall into blind darkness who worship the Unmanifested and\nthey fall into greater darkness who worship the manifested."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XIII"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "By the worship of the Unmanifested one end is attained; by the\nworship of the manifested, another.  Thus we have heard from the\nwise men who taught us this."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XIV"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He who knows at the same time both the Unmanifested (the cause of\nmanifestation) and the destructible or manifested, he crosses\nover death through knowledge of the destructible and attains\nimmortality through knowledge of the First Cause (Unmanifested)."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "This particular Upanishad deals chiefly with the Invisible Cause and the\nvisible manifestation, and the whole trend of its teaching is to show that\nthey are one and the same, one being the outcome of the other hence no perfect\nknowledge is possible without simultaneous comprehension of both.  The wise\nmen declare that he who worships in a one-sided way, whether the visible or\nthe invisible, does not reach the highest goal.  Only he who has a\nco-ordinated understanding of both the visible and the invisible, of matter\nand spirit, of activity and that which is behind activity, conquers Nature and\nthus overcomes death.  By work, by making the mind steady and by following the\nprescribed rules given in the Scriptures, a man gains wisdom.  By the light of\nthat wisdom he is able to perceive the Invisible Cause in all visible forms.\nTherefore the wise man sees Him in every manifested form.  They who have a\ntrue conception of God are never separated from Him.  They exist in Him and He\nin them."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XV"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The face of Truth is hidden by a golden disk.  O Pushan\n(Effulgent Being)!  Uncover (Thy face) that I, the worshipper of\nTruth, may behold Thee."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XVI"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "O Pushan!  O Sun, sole traveller of the heavens, controller of\nall, son of Prajapati, withdraw Thy rays and gather up Thy\nburning effulgence.  Now through Thy Grace I behold Thy blessed\nand glorious form.  The Purusha (Effulgent Being) who dwells\nwithin Thee, I am He."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Here the sun, who is the giver of all light, is used as the symbol of the\nInfinite, giver of all wisdom.  The seeker after Truth prays to the Effulgent\nOne to control His dazzling rays, that his eyes, no longer blinded by them,\nmay behold the Truth.  Having perceived It, he proclaims: \"Now I see that that\nEffulgent Being and I are one and the same, and my delusion is destroyed.\" By\nthe light of Truth he is able to discriminate between the real and the unreal,\nand the knowledge thus gained convinces him that he is one with the Supreme;\nthat there is no difference between himself and the Supreme Truth; or as\nChrist said, \"I and my Father are one.\""
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XVII"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "May my life-breath go to the all-pervading and immortal Prana,\nand let this body be burned to ashes.  Om!  O mind, remember thy\ndeeds!  O mind, remember, remember thy deeds!  Remember!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Seek not fleeting results as the reward of thy actions, O mind!  Strive only\nfor the Imperishable.  This Mantram or text is often chanted at the hour of\ndeath to remind one of the perishable nature of the body and the eternal\nnature of the Soul.  When the clear vision of the distinction between the\nmortal body and the immortal Soul dawns in the heart, then all craving for\nphysical pleasure or material possession drops away; and one can say, let the\nbody be burned to ashes that the Soul may attain its freedom; for death is\nnothing more than the casting-off of a worn-out garment."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XVIII"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "O Agni (Bright Being)!  Lead us to blessedness by the good path.\nO Lord!  Thou knowest all our deeds, remove all evil and delusion\nfrom us.  To Thee we offer our prostrations and supplications\nagain and again."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Here ends this Upanishad"
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "p",
+    "innerHtml": "This Upanishad is called Isa-Vasya-Upanishad, that which gives\nBrahma-Vidya or knowledge of the All-pervading Deity.  The\ndominant thought running through it is that we cannot enjoy life\nor realize true happiness unless we consciously \"cover\" all with\nthe Omnipresent Lord.  If we are not fully conscious of that\nwhich sustains our life, how can we live wisely and perform our\nduties? Whatever we see, movable or immovable, good or bad, it is\nall \"That.\" We must not divide our conception of the universe;\nfor in dividing it, we have only fragmentary knowledge and we\nthus limit ourselves."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He who sees all beings in his Self and his Self in all beings, he\nnever suffers; because when he sees all creatures within his true\nSelf, then jealousy, grief and hatred vanish.  He alone can love.\nThat AH-pervading One is self- effulgent, birthless, deathless,\npure, untainted by sin and sorrow.  Knowing this, he becomes free\nfrom the bondage of matter and transcends death.  Transcending\ndeath means realizing the difference between body and Soul and\nidentifying oneself with the Soul.  When we actually behold the\nundecaying Soul within us and realize our true nature, we no\nlonger identify ourself with the body which dies and we do not\ndie with the body."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Self-knowledge has always been the theme of the Sages; and the\nUpanishads deal especially with the knowledge of the Self and\nalso with the knowledge of God, because there is no difference\nbetween the Self and God.  They are one and the same.  That which\ncomes out of the Infinite Whole must also be infinite; hence the\nSelf is infinite.  That is the ocean, we are the drops.  So long\nas the drop remains separate from the ocean, it is small and\nweak; but when it is one with the ocean, then it has all the\nstrength of the ocean.  Similarly, so long as man believes\nhimself to be separate from the Whole, he is helpless; but when\nhe identifies himself with It, then he transcends all weakness\nand partakes of Its omnipotent qualities."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Katha-upanishad"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The Katha-Upanishad is probably the most widely known of all the\nUpanishads.  It was early translated into Persian and through\nthis rendering first made its way into Europe.  Later Raja Ram\nMohun Roy brought out an English version.  It has since appeared\nin various languages; and English, German and French writers are\nall agreed in pronouncing it one of the most perfect expressions\nof the religion and philosophy of the Vedas.  Sir Edwin Arnold\npopularized it by his metrical rendering under the name of \"The\nSecret of Death,\" and Ralph Waldo Emerson gives its story in\nbrief at the close of his essay on \"Immortality.\""
+  },
+  {
+    "tag": "p",
+    "innerHtml": "There is no consensus of opinion regarding the place of this\nUpanishad in Vedic literature.  Some authorities declare it to\nbelong to the Yajur-Veda, others to the Sama-Veda, while a large\nnumber put it down as a part of the Atharva-Veda.  The story is\nfirst suggested in the Rig-Veda; it is told more definitely in\nthe Yajur-Veda; and in the Katha-Upanishad it appears fully\nelaborated and interwoven with the loftiest Vedic teaching.\nThere is nothing however, to indicate the special place of this\nfinal version, nor has any meaning been found for the name Katha."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The text presents a dialogue between an aspiring disciple,\nNachiketas, and the Ruler of Death regarding the great Hereafter."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Katha-upanishad"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Peace Chant"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "May He (the Supreme Being) protect us both, teacher and taught.\nMay He be pleased with us. May we acquire strength.  May our\nstudy bring us illumination.  May there be no enmity among us."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OM! PEACE! PEACE! PEACE!"
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h4",
+    "innerHtml": "Part First"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Vahasrava, being desirous of heavenly rewards (at the Viswajit\nsacrifice), made a gift of all that he possessed.  He had a son\nby the name of Nachiketas."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "II"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "When the offerings were being distributed, faith (Shraddha)\nentered (the heart of) Nachiketas, who, though young, yet\nresected:"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "III"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "These cows have drunk water, eaten grass and given milk for the\nlast time, and their senses have lost all vigour.  He who gives\nthese undoubtedly goes to joyless realms."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "In India the idea of sacrifice has always been to give freely for the joy of\ngiving, without asking anything in return; and the whole purpose and merit of\nthe sacrifice is lost, if the giver entertains the least thought of name, fame\nor individual benefit.  The special Viswajit sacrifice which Vajasrava was\nmaking required of him to give away all that he possessed.  When, however, the\ngifts were brought forward to be offered, his son Nachiketas, although\nprobably a lad about twelve years of age, observed how worthless were the\nanimals which his father was offering.  His heart at once became filled with\nShraddha.  There is no one English word which can convey the meaning of this\nSanskrit term.  It is more than mere faith.  It also implies self-reliance, an\nindependent sense of right and wrong, and the courage of one's own conviction.\nAs a boy of tender age, Nachiketas had no right to question his father's\naction; yet, impelled by the sudden awakening of his higher nature, he could\nnot but reflect: \"By merely giving these useless cows, my father cannot gain\nany merit.  If he has vowed to give all his possessions, then he must also\ngive me.  Otherwise his sacrifice will not be complete and fruitful.\"\nTherefore, anxious for his father's welfare, he approached him gently and\nreverently."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "IV"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He said to his father: Dear father, to whom wilt thou give me?\nHe said it a second time, then a third time.  The father replied:\nI shall give thee unto Death."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Nachiketas, being a dutiful son and eager to atone for his father's inadequate\nsacrifice, tried to remind him thus indirectly that he had not fulfilled his\npromise to give away all his possessions, since he had not yet offered his own\nson, who would be a worthier gift than useless cattle.  His father, conscious\nthat he was not making a true sacrifice, tried to ignore the boy's questions;\nbut irritated by his persistence, he at last impatiently made answer: \"I give\nthee to Yama, the Lord of Death.\"  The fact that anger could so quickly rise\nin his heart proved that he had not the proper attitude of a sacrificer, who\nmust always be tranquil, uplifted and free from egoism."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "V"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Nachiketas thought: Among many (of my father's pupils) I stand\nfirst; among many (others) I stand in the middle (but never\nlast). What will be accomplished for my father by my going this\nday to Yama?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It was not conceit which led Nachiketas to consider his own standing and\nimportance.  He was weighing his value as a son and pupil in order to be able\nto judge whether or not he had merit enough to prove a worthy gift.  Although\nhe realized that his father's harsh reply was only the expression of a\nmomentary outburst of anger; yet he believed that greater harm might befall\nhis father, if his word was not kept.  Therefore he sought to strengthen his\nfather's resolution by reminding him of the transitory condition of life. He\nsaid:"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "VI"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Look back to those who lived before and look to those who live\nnow.  Like grain the mortal decays and like grain again springs\nup (is reborn)."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "All things perish, Truth alone remains.  Why then fear to sacrifice me also;\nThus Nachiketas convinced his father that he should remain true to his word\nand send him to Yama, the Ruler of Death.  Then Nachiketas went to the abode\nof Death, but Yama was absent and the boy waited without food or drink for\nthree days.  On Yama's return one of his household said to him:"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "VII"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Like fire a Brahmana guest enters into houses.  That fire is\nquenched by an offering.  (Therefore) O Vaivaswata, bring water."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "VIII"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The foolish man in whose house a Brahmana guest remains without\nfood, all his hopes and expectations, all the merit gained by his\nassociation with the holy, by his good words and deeds, all his\nsons and cattle, are destroyed."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "According to the ancient Vedic ideal a guest is the\nrepresentative of God and should be received with due reverence\nand honor.  Especially is this the case with a Brahmana or a\nSannyasin whose life is wholly consecrated to God.  Any one who\nfails to give proper care to a holy guest brings misfortune on\nhimself and his household.  When Yama returned, therefore, one of\nthe members of his household anxiously informed him of\nNachiketas' presence and begged him to bring water to wash his\nfeet, this being always the first service to an arriving guest."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "IX"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Yama said: O Brahmana!  Revered guest!  My salutations to thee.\nAs thou hast remained three nights in my house without food,\ntherefore choose three boons, O Brahmana."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "X"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Nachiketas said: May Gautama, my father, be free from anxious\nthought (about me).  May he lose all anger (towards me) and be\npacified in heart.  May he know and welcome me when I am sent\nback by thee.  This, O Death, is the first of the three boons I\nchoose."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XI"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Yama replied: Through my will Auddalaki Aruni (thy father) will\nknow thee, and be again towards thee as before.  He will sleep in\npeace at night.  He will be free from wrath when he sees thee\nreleased from the mouth of death."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XII"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Nachiketas said: In the realm of heaven there is no fear, thou\n(Death) art not there; nor is there fear of old age.  Having\ncrossed beyond both hunger and thirst and being above grief,\n(they) rejoice in heaven."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XIII"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Thou knowest, O Death, the fire-sacrifice that leads to heaven.\nTell this to me, who am full of Shraddha (faith and yearning).\nThey who live in the realm of heaven enjoy freedom from death.\nThis I beg as my second boon."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XIV"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Yama replied: I know well that fire which leads to the realm of\nheaven.  I shall tell it to thee.  Listen to me.  Know, O\nNachiketas, that this is the means of attaining endless worlds\nand their support.  It is hidden in the heart of all beings."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XV"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Yama then told him that fire-sacrifice, the beginning of all the\nworlds; what bricks, how many and how laid for the altar.\nNachiketas repeated all as it was told to him.  Then Death, being\npleased with him, again said:"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XVI"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The great-soured Yama, being well pleased, said to him\n(Nachiketas): I give thee now another boon.  This fire\n(sacrifice) shall be named after thee.  Take also this garland of\nmany colours."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XVII"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He who performs this Nachiketa fire-sacrifice three times, being\nunited with the three (mother, father and teacher), and who\nfulfills the three-fold duty (study of the Vedas, sacrifice and\nalms-giving) crosses over birth and death.  Knowing this\nworshipful shining fire, born of Brahman, and realizing Him, he\nattains eternal peace."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XVIII"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He who knows the three-fold Nachiketa fire and performs the\nNachiketa fire-sacrifice with three-fold knowledge, having cast\noff the fetters of death and being beyond grief, he rejoices in\nthe realm of heaven."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XIX"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "O Nachiketas, this is thy fire that leads to heaven, which thou\nhast chosen as thy second boon.  People will call this fire after\nthy name.  Ask the third boon, Nachiketas."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fire is regarded as \"the foundation of all the worlds,\" because\nit is the revealer of creation.  If there were no fire or light,\nno manifested form would be visible.  We read in the Semitic\nScriptures, \"In the beginning the Lord said, 'Let there be\nlight.\"'  Therefore, that which stands in the external universe\nas one of the purest symbols of the Divine, also dwells in subtle\nform in the heart of every living being as the vital energy, the\nlife-force or cause of existence."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Yama now tells Nachiketas how, by performing sacrifice with the\nthree-fold knowledge, he may transcend grief and death and reach\nheaven.  The three-fold knowledge referred to is regarding the\npreparation of the altar and fire.  Nachiketas being eager to\nlearn, listened with wholehearted attention and was able to\nrepeat all that was told him.  This so pleased Yama that he\ngranted him the extra boon of naming the fire-sacrifice after him\nand gave him a garland set with precious stones."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Verses XVI-XVIII are regarded by many as an interpolation, which\nwould account for certain obscurities and repetitions in them."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XX"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Nachiketas said: There is this doubt regarding what becomes of a\nman after death.  Some say he exists, others that he does not\nexist.  This knowledge I desire, being instructed by thee.  Of\nthe boons this is the third boon."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XXI"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Yama replied: Even the Devas (Bright Ones) of old doubted\nregarding this.  It is not easy to know; subtle indeed is this\nsubject.  O Nachiketas, choose another boon.  Do not press me.\nAsk not this boon of me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XXII"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Nachiketas said: O Death, thou sayest that even the Devas had\ndoubts about this, and that it is not easy to know.  Another\nteacher like unto thee is not to be found.  Therefore no other\nboon can be equal to this one."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XXIII"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Yama said: Ask for sons and grandsons who shall live a hundred\nyears, many cattle, elephants, gold and horses.  Ask for lands of\nvast extent and live thyself as many autumns as thou desirest."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XXIV"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "If thou thinkest of any other boon equal to this, ask for wealth\nand long life; be ruler over the wide earth.  O Nachiketas, I\nshall make thee enjoyer of all desires."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XXV"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Whatsoever objects of desire are difficult to obtain in the realm\nof mortals, ask them all as thou desirest; these lovely maidens\nwith their chariots and musical instruments, such as are not\nobtainable by mortals—be served by these whom I give to thee.  O\nNachiketas, do not ask regarding death."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The third boon asked by Nachiketas concerning the great Hereafter was one\nwhich could be granted only to those who were freed from all mortal desires\nand limitations, therefore Yama first tested Nachiketas to see whether he was\nready to receive such knowledge.  \"Do not press me regarding this secret,\" he\nsaid.  \"Even wise men cannot understand it and thou art a mere lad.  Take,\nrather, long life, wealth, whatever will give thee happiness on the mortal\nplane.\"  But the boy proved his strength and worthiness by remaining firm in\nhis resolution to know the great secret of life and death."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XXVI"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Nachiketas said: O Death, these are fleeting; they weaken the\nvigour of all the senses in man.  Even the longest life is short.\nKeep thou thy chariots, dance and music."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XXVII"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Man cannot be satisfied by wealth.  Shall we possess wealth when\nwe see thee (Death)?  Shall we continue to live as long as thou\nrulest?  Therefore that boon alone is to be chosen by me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XXVIII"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "What man dwelling on the decaying mortal plane, having approached\nthe undecaying immortal one, and having reflected upon the nature\nof enjoyment through beauty and sense pleasure, would delight in\nlong life?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XXIX"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "O Death, that regarding which there is doubt, of the great\nHereafter, tell us.  Nachiketas asks for no other boon than that\nwhich penetrates this hidden secret."
+  },
+  {
+    "tag": "h4",
+    "innerHtml": "Part Second"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Yama said: The good is one thing and the pleasant another.  These\ntwo, having different ends, bind a man.  It is well with him who\nchooses the good.  He who chooses the pleasant misses the true\nend."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "II"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The good and the pleasant approach man; the wise examines both\nand discriminates between them; the wise prefers the good to the\npleasant, but the foolish man chooses the pleasant through love\nof bodily pleasure."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "III"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "O Nachiketas after wise reflection thou hast renounced the\npleasant and all pleasing forms.  Thou hast not accepted this\ngarland of great value for which many mortals perish."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "IV"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Wide apart are these two,—ignorance and what is known as wisdom,\nleading in opposite directions.  I believe Nachiketas to be one\nwho longs for wisdom, since many tempting objects have not turned\nthee aside."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "With this second part, the Ruler of Death begins his instructions regarding\nthe great Hereafter.  There are two paths,—one leading Godward, the other\nleading to worldly pleasure.  He who follows one inevitably goes away from the\nother; because, like light and darkness they conflict.  One leads to the\nimperishable spiritual realm; the other to the perishable physical realm.\nBoth confront a man at every step of life.  The discerning man distinguishing\nbetween the two, chooses the Real and Eternal, and he alone attains the\nhighest, while the ignorant man, preferring that which brings him immediate\nand tangible results, misses the true purpose of his existence.  Although Yama\nput before Nachiketas many temptations to test his sincerity and earnestness,\nhe judging them at their real value, refused them all, saying \"I have come\nfrom the mortal realm, shall I ask for what is mortal?  I desire only that\nwhich is eternal.\"  Then Death said to him: \"I now see that thou art a sincere\ndesirer of Truth.  I offered thee vast wealth, long life and every form of\npleasure which tempts and deludes men; but thou hast proved thy worthiness by\nrejecting them all.\""
+  },
+  {
+    "tag": "p",
+    "innerHtml": "V"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fools dwelling in ignorance, yet imagining themselves wise and\nlearned, go round and round in crooked ways, like the blind led\nby the blind."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "VI"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The Hereafter never rises before the thoughtless child (the\nignorant), deluded by the glamour of wealth.  \"This world alone\nis, there is none other\": thinking thus, he falls under my sway\nagain and again."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "There are many in the world, who, puffed up with intellectual conceit, believe\nthat they are capable of guiding others.  But although they may possess a\ncertain amount of worldly wisdom, they are devoid of deeper understanding;\ntherefore all that they say merely increases doubt and confusion in the minds\nof those who hear them.  Hence they are likened to blind men leading the\nblind."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The Hereafter does not shine before those who are lacking in the power of\ndiscrimination and are easily carried away therefore by the charm of fleeting\nobjects.  As children are tempted by toys, so they are tempted by pleasure,\npower, name and fame.  To them these seem the only realities.  Being thus\nattached to perishable things, they come many times under the dominion of\ndeath.  There is one part of us which must die; there is another part which\nnever dies.  When a man can identify himself with his undying nature, which is\none with God, then he overcomes death."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "VII"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He about whom many are not even able to hear, whom many cannot\ncomprehend even after hearing: wonderful is the teacher,\nwonderful is he who can receive when taught by an able teacher."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Throughout the Vedic Scriptures it is declared that no one can impart\nspiritual knowledge unless he has realization.  What is meant by realization?\nIt means knowledge based on direct perception.  In India often the best\nteachers have no learning, but their character is so shining that every one\nlearns merely by coming in contact with them.  In one of the Scriptures we\nread: Under a banyan tree sat a youthful teacher and beside him an aged\ndisciple.  The mind of the disciple was full of doubts and questions, but\nalthough the teacher continued silent, gradually every doubt vanished from the\ndisciple's mind.  This signifies that the conveying of spiritual teaching does\nnot depend upon words only.  It is the life, the illumination, which counts.\nSuch God-enlightened men, however, cannot easily be found; but even with such\na teacher, the knowledge of the Self cannot be gained unless the heart of the\ndisciple is open and ready for the Truth.  Hence Yama says both teacher and\ntaught must be wonderful."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "VIII"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "When taught by a man of inferior understanding, this Atman cannot\nbe truly known, even though frequently thought upon.  There is no\nway (to know It) unless it is taught by another (an illumined\nteacher), for it is subtler than the subtle and beyond argument."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "IX"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "O Dearest, this Atman cannot be attained by argument; It is truly\nknown only when taught by another (a wise teacher).  O\nNachiketas, thou hast attained It.  Thou art fixed in Truth.  May\nwe ever, find a questioner like thee."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Knowledge of the Atman or Self cannot be attained when it is taught by those\nwho themselves lack in real understanding of It; and who therefore, having no\ndefinite conviction of their own, differ among themselves as to its nature and\nexistence.  Only he who has been able to perceive the Self directly, through\nthe unfoldment of his higher nature, can proclaim what It actually is; and his\nwords alone carry weight and bring illumination.  It is too subtle to be\nreached by argument.  This secret regarding the Hereafter cannot be known\nthrough reasoning or mere intellectual gymnastics.  It is to be attained only\nin a state of consciousness which transcends the boundary line of reason."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "X"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I know that (earthly) treasure is transitory, for the eternal can\nnever be attained by things which are non-eternal.  Hence the\nNachiketa fire (sacrifice) has been performed by me with\nperishable things and yet I have attained the eternal."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XI"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "O Nachiketas, thou hast seen the fulfillment of all desires, the\nbasis of the universe, the endless fruit of sacrificial rites,\nthe other shore where there is no fear, that which is\npraiseworthy, the great and wide support; yet, being wise, thou\nhast rejected all with firm resolve."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The teacher, saying that the imperishable cannot be attained by the\nperishable, shows that no amount of observance of rituals and ceremonies can\nearn the imperishable and eternal.  Although the Nachiketa fire-sacrifice may\nbring results which seem eternal to mortals because of their long duration,\nyet they too must come to an end; therefore this sacrifice cannot lead to the\nfinal goal.  Yama praises Nachiketas because, when all heavenly and earthly\npleasures, as well as knowledge of all realms and their enjoyments were\noffered him, yet he cast them aside and remained firm in his desire for Truth\nalone."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XII"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The wise, who by means of the highest meditation on the Self\nknows the Ancient One, difficult to perceive, seated in the\ninnermost recess, hidden in the cave of the heart, dwelling in\nthe depth of inner being, (he who knows that One) as God, is\nliberated from the fetters of joy and sorrow."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XIII"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "A mortal, having heard and fully grasped this, and having\nrealized through discrimination the subtle Self, rejoices,\nbecause he has obtained that which is the source of all joy. I\nthink the abode (of Truth) is open to Nachiketas."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The Scriptures give three stages in all spiritual attainment.  The aspirant\nmust first hear about the Truth from an enlightened teacher; next he must\nreflect upon what he has heard; then by constant practice of discrimination\nand meditation he realizes it; and with realization comes the fulfilment of\nevery desire, because it unites him with the source of all.  Having beheld\nthis, a man learns that all sense pleasures are but fragmentary reflections of\nthat one supreme joy, which can be found in the true Self alone.  Yama assures\nNachiketas that there is no doubt of his realizing the Truth, because he has\nshown the highest discrimination as well as fixity of purpose."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XIV"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Nachiketas said: That which thou seest, which is neither virtue\nnor vice, neither cause nor effect, neither past nor future (but\nbeyond these), tell me That."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XV"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Yama replied: That goal which all the Vedas glorify, which all\nausterities proclaim, desiring which (people) practice\nBrahmacharya (a life of continence and service), that goal I tell\nthee briefly—it is Aum."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "What name can man give to God?  How can the Infinite be bound by any finite\nword?  All that language can express must be finite, since it is itself\nfinite.  Yet it is very difficult for mortals to think or speak of anything\nwithout calling it by a definite name.  Knowing this, the Sages gave to the\nSupreme the name A-U-M which stands as the root of all language.  The first\nletter \"A\" is the mother-sound, being the natural sound uttered by every\ncreature when the throat is opened, and no sound can be made without opening\nthe throat.  The last letter \"M,\" spoken by closing the lips, terminates all\narticulation.  As one carries the sound from the throat to the lips, it passes\nthrough the sound \"U.\"  These three sounds therefore cover the whole field of\npossible articulate sound.  Their combination is called the Akshara or the\nimperishable word, the Sound-Brahman or the Word God, because it is the most universal name which can be given to the Supreme. Hence it must be the word which was \"in the beginning\" and corresponds to the Logos of Christian theology.\nIt is because of the all-embracing significance of this name that it is used\nso universally in the Vedic Scriptures to designate the Absolute."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XVI"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "This Word is indeed Brahman.  This Word is indeed the Supreme.\nHe who knows this Word obtains whatever he desires."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XVII"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "This is the best Support, This is the highest Support; he who\nknows this Support is glorified in the world of Brahman."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "This sacred Word is the highest symbol of the Absolute.  He who through\nmeditating on It grasps Its full significance, realizes the glory of God and\nat once has all his desires satisfied, because God is the fulfilment of all\ndesires."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XVIII"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "This Self is never born, nor does It die.  It did not spring from\nanything, nor did anything spring from It.  This Ancient One is\nunborn, eternal, everlasting.  It is not slain even though the\nbody is slain."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XIX"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "If the slayer thinks that he slays, or if the slain thinks that\nhe is slain, both of these know not.  For It neither slays nor is\nIt slain."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XX"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The Self is subtler than the subtle, greater than the great; It\ndwells in the heart of each living being.  He who is free from\ndesire and free from grief, with mind and senses tranquil,\nbeholds the glory of the Atman."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Although this Atman dwells in the heart of every living being, yet It is not\nperceived by ordinary mortals because of Its subtlety.  It cannot be perceived\nby the senses; a finer spiritual sight is required.  The heart must be pure\nand freed from every unworthy selfish desire; the thought must be indrawn from\nall external objects; mind and body must be under control; when the whole\nbeing thus becomes calm and serene, then it is possible to perceive that\neffulgent Atman.  It is subtler than the subtle, because It is the invisible\nessence of every thing; and It is greater than the great because It is the\nboundless, sustaining power of the whole universe; that upon which all\nexistence rests."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XXI"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Though sitting, It travels far; though lying, It goes everywhere.\nWho else save me is fit to know that God, who is (both) joyful\nand joyless?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The Self is all-pervading, hence It is that which sits still and that which\ntravels, that which is active and that which is inactive.  It is both\nstationary and moving, and It is the basis of all forms of existence;\ntherefore whatever exists in the universe, whether joy or joylessness,\npleasure or pain, must spring from It.  Who is better able to know God than I\nmyself, since He resides in my heart and is the very essence of my being?\nSuch should be the attitude of one who is seeking."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XXII"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The wise who know the Self, bodiless, seated within perishable\nbodies, great and all- pervading, grieve not."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Then a wise man through the practice of discrimination has seen clearly the\ndistinction between body and Soul, he knows that his true Self is not the\nbody, though It dwells in the body.  Thus realizing the indestructible,\nall-pervading nature of his real Self, he surmounts all fear of death or loss,\nand is not moved even by the greatest\nsorrow."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XXIII"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "This Self cannot be attained by study of the Scriptures, nor by\nintellectual perception, nor by frequent hearing (of It); He whom\nthe Self chooses, by him alone is It attained.  To him the Self\nreveals Its true nature."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "We may imagine that by much study we can find out God; but merely hearing\nabout a thing and gaining an intellectual comprehension of it does not mean\nattaining true knowledge of it.  Knowledge only comes through direct\nperception, and direct perception of God is possible for those alone who are\npure in heart and spiritually awakened.  Although He is alike to all beings\nand His mercy is on all, yet the impure and worldy-minded do not get the\nblessing, because they do not know how to open their hearts to it.  He who\nlongs for God, him the Lord chooses; because to him alone can He reveal His\ntrue nature."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XXIV"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He who has not turned away from evil conduct, whose senses are\nuncontrolled, who is not tranquil, whose mind is not at rest, he\ncan never attain this Atman even by knowledge."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Yama having first described what the Atman is, now tells us how to attain It.\nA man must try to subdue his lower nature and gain control over the body and\nsenses.  He must conquer the impure selfish desires which now disturb the\nserenity of his mind, that it may grow calm and peaceful. In other words, he\nmust live the life and develop all spiritual qualities in order to perceive\nthe Atman."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XXV"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Who then can know where is this mighty Self?  He (that Self) to\nwhom the Brahmanas and Kshatriyas are but food and death itself a\ncondiment."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "This text proclaims the glory and majesty of the Supreme.  The Brahmanas stand\nfor spiritual strength, the Kshatriyas for physical strength, yet both are\noverpowered by His mightiness.  Life and death alike are food for Him.  As the\nlight of the great sun swallows up all the lesser lights of the universe,\nsimilarly all worlds are lost in the effulgence of the Eternal Omnipresent\nBeing."
+  },
+  {
+    "tag": "h4",
+    "innerHtml": "Part Third"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "There are two who enjoy the fruits of their good deeds in the\nworld, having entered into the cave of the heart, seated (there)\non the highest summit.  The knowers of Brahman call them shadow\nand light.  So also (they are called) by householders who perform\nfive fire- sacrifices or three Nachiketa fire-sacrifices."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Here the two signify the Higher Self and the lower self, dwelling in the\ninnermost cave of the heart.  The Seers of Truth, as well as householders who\nfollow the path of rituals and outer forms with the hope of enjoying the\nfruits of their good deeds, both proclaim that the Higher Self is like a light\nand the lower self like a shadow.  When the Truth shines clearly in the heart\nof the knower, then he surmounts the apparent duality of his nature and\nbecomes convinced that there is but One, and that all outer manifestations are\nnothing but reflections or projections of that One."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "II"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "May we be able to learn that Nachiketa fire-sacrifice, which is a\nbridge for those who perform sacrifice.  May we also know the\nOne, who is the highest imperishable Brahman for those who desire\nto cross over to the other shore which is beyond fear."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The significance of this text is May we acquire the knowledge of Brahman, the\nSupreme, in both manifested and unmanifested form.  He is manifested as the\nLord of sacrifice for those who follow the path of ritual. He is the\nunmanifested, eternal, universal Supreme Being for those who follow the path\nof wisdom.  The \"other shore,\" being the realm of immortality, is said to be\nbeyond fear; because disease, death, and all that which mortals fear, cease to\nexist there.  It is believed by many that these two opening verses were a\nlater interpolation."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "III"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Know the Atman (Self) as the lord of the chariot, and the body as\nthe chariot.  Know also the intellect to be the driver and mind\nthe reins."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "IV"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The senses are called the horses; the sense objects are the\nroads; when the Atman is united with body, senses and mind, then\nthe wise call Him the enjoyer."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "In the third chapter Yama defines what part of our being dies and what part is\ndeathless, what is mortal and what is immortal.  But the Atman, the Higher\nSelf, is so entirely beyond human conception that it is impossible to give a\ndirect definition of It.  Only through similies can some idea of It be\nconveyed.  That is the reason why all the great Teachers of the world have so\noften taught in the form of parables.  So here the Ruler of Death represents\nthe Self as the lord of this chariot of the body.  The intellect or\ndiscriminative faculty is the driver, who controls these wild horses of the\nsenses by holding firmly the reins of the mind.  The roads over which these\nhorses travel are made up of all the external objects which attract or repel\nthe senses:—the sense of smelling follows the path of sweet odours, the sense\nof seeing the way of beautiful sights.  Thus each sense, unless restrained by\nthe discriminative faculty, seeks to go out towards its special objects.  When\nthe Self is joined with body, mind and senses, It is called the intelligent\nenjoyer; because It is the one who wills, feels, perceives and does\neverything."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "V"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He who is without discrimination and whose mind is always\nuncontrolled, his senses are unmanageable, like the vicious\nhorses of a driver."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "VI"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "But he who is full of discrimination and whose mind is always\ncontrolled, his senses are manageable, like the good horses of a\ndriver."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The man whose intellect is not discriminative and who fails to distinguish\nright from wrong, the real from the unreal, is carried away by his sense\npassions and desires, just as a driver is carried away by vicious horses over\nwhich he has lost control.  But he who clearly distinguishes what is good from\nwhat is merely pleasant, and controls all his out-going forces from running\nafter apparent momentary pleasures, his senses obey and serve him as good\nhorses obey their driver."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "VII"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He who does not possess discrimination, whose mind is\nuncontrolled and always impure, he does not reach that goal, but\nfalls again into Samsara (realm of birth and death)."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "VIII"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "But he who possesses right discrimination, whose mind is under\ncontrol and always pure, he reaches that goal, from which he is\nnot born again."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "IX"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The man who has a discriminative intellect for the driver, and a\ncontrolled mind for the reins, reaches the end of the journey,\nthe highest place of Vishnu (the All-pervading and Unchangeable\nOne)."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "A driver must possess first a thorough knowledge of the road; next he must\nunderstand how to handle the reins and control his horses.  Then will he drive\nsafely to his destination.  Similarly in this journey of life, our mind and\nsenses must be wholly under the control of our higher discriminative faculty;\nfor only when all our forces work in unison can we hope to reach the goal—the\nabode of Absolute Truth."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "X"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Beyond the senses are the objects, beyond the objects is the\nmind, beyond the mind is the intellect, beyond the intellect is\nthe great Atman."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XI"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Beyond the great Atman is the Unmanifested; beyond the\nUnmanifested is the Purusha (the Cosmic Soul); beyond the Purusha\nthere is nothing.  That is the end, that is the final goal."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "In these two verses the Teacher shows the process of discrimination, by which\none attains knowledge of the subtle Self.  Beginning with the sense-organs, he\nleads up to the less and less gross, until he reaches that which is subtlest\nof all, the true Self of man.  The senses are dependent on sense-objects,\nbecause without these the senses would have no utility.  Superior to\nsense-objects is the mind, because unless these objects affect the mind, they\ncannot influence the senses.  Over the mind the determinative faculty\nexercises power; this determinative faculty is governed by the individual\nSelf; beyond this Self is the undifferentiated creative energy known as\nAvyaktam; and above this is the Purusha or Supreme Self.  Than this there is\nnothing higher.  That is the goal, the Highest Abode of Peace and Bliss."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XII"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "This Atman (Self), hidden in all beings, does not shine forth;\nbut It is seen by subtle seers through keen and subtle\nunderstanding."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "If It dwells in all living beings, why do we not see It? Because the ordinary\nman's vision is too dull and distracted.  It is visible to those alone whose\nintellect has been purified by constant thought on the Supreme, and whose\nsight therefore has become refined and sharpened.  This keenness of vision\ncomes only when all our forces have been made one-pointed through steadfast\npractice of concentration and meditation."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XIII"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "A wise man should control speech by mind, mind by intellect,\nintellect by the great Atman, and that by the Peaceful One (the\nParamatman or Supreme Self)."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Here Yama gives the practical method to be followed if one wishes to realize\nthe Supreme.  The word \"speech\" stands for all the senses.  First, therefore,\na man must control his outgoing senses by the mind.  Then the mind must be\nbrought under the control of the discriminative faculty; that is, it must be\nwithdrawn from all sense-objects and cease to waste its energies on\nnonessential things.  The discriminative faculty in turn must be controlled by\nthe higher individual intelligence and this must be governed wholly by the\nSupreme Intelligence."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XIV"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arise!  Awake!  Having reached the Great Ones (illumined\nTeachers), gain understanding.  The path is as sharp as a razor,\nimpassable and difficult to travel, so the wise declare."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "This is the eternal call of the wise: Awake from the slumber of ignorance!\nArise and seek out those who know the Truth, because only those who have\ndirect vision of Truth are capable of teaching It.  Invoke their blessing with\na humble spirit and seek to be instructed by them.  The path is very difficult\nto tread.  No thoughtless or lethargic person can safely travel on it.  One\nmust be strong, wakeful and persevering."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XV"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Knowing That which is soundless, touchless, formless, undecaying;\nalso tasteless, odorless, and eternal; beginningless, endless and\nimmutable; beyond the Unmanifested: (knowing That) man escapes\nfrom the mouth of death."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The Ruler of Death defines here the innermost essence of our being.  Because\nof its extreme subtlety, it cannot be heard or felt or smelled or tasted like\nany ordinary object.  It never dies.  It has no beginning or end.  It is\nunchangeable.  Realizing this Supreme Reality, man escapes from death and\nattains everlasting life.  Thus the Teacher has gradually led Nachiketas to a\npoint where he can reveal to him the secret of death.  The boy had thought\nthat there was a place where he could stay and become immortal.  But Yama\nshows him that immortality is a state of consciousness and is not gained so\nlong as man clings to name and form, or to perishable objects.  What dies?\nForm.  Therefore the formful man dies; but not that which dwells within.\nAlthough inconceivably subtle, the Sages have always made an effort through\nsimilies and analogies to give some idea of this inner Self or the God within.\nThey have described It as beyond mind and speech; too subtle for ordinary\nperception, but not beyond the range of purified vision."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XVI"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The intelligent man, who has heard and repeated the ancient story\nof Nachiketas, told by the Ruler of Death, is glorified in the\nworld of Brahman."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XVII"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He who with devotion recites this highest secret of immortality\nbefore an assembly of Brahmanas (pious men) or at the time of\nShraddha (funeral ceremonies), gains everlasting reward, he gains\neverlasting reward."
+  },
+  {
+    "tag": "h4",
+    "innerHtml": "Part Fourth"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The Self-existent created the senses out-going; for this reason\nman sees the external, but not the inner Atman (Self).  Some wise\nman, however, desiring immortality, with eyes turned away (from\nthe external) sees the Atman within."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "In the last chapter the Ruler of Death instructed Nachiketas regarding the\nnature and glory of the Self.  Now he shows the reason why the Self is not\nseen by the majority.  It is because man's mind is constantly drawn outward\nthrough the channels of his senses, and this prevents his seeing the inner\nSelf (Pratyagatman); but now and then a seeker, wiser than others, goes within\nand attains the vision of the undying Self."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "II"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Children (the ignorant) pursue external pleasures; (thus) they\nfall into the wide- spread snare of death. But the wise, knowing\nthe nature of immortality, do not seek the permanent among\nfleeting things."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Those who are devoid of discrimination and fail to distinguish between real\nand unreal, the fleeting and the permanent, set their hearts on the changeable\nthings of this world; hence they entangle themselves in the net of insatiable\ndesire, which leads inevitably to disappointment and suffering. To such, death\nmust seem a reality because they identify themselves with that which is born\nand which dies. But the wise, who see deeper into the nature of things, are no\nlonger deluded by the charm of the phenomenal world and do not seek for\npermanent happiness among its passing enjoyments."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "III"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "That by which one knows form, taste, smell, sound, touch and\nsense enjoyments, by That also one knows whatever remains (to be\nknown).  This verily is That (which thou hast asked to know)."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "IV"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "That by which a mortal perceives, both in dream and in waking, by\nknowing that great all-pervading Atman the wise man grieves no\nmore."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "In these verses the teacher tries to make plain that all knowledge, as well as\nall sense perception, in every state of consciousness—sleeping, dreaming or\nwaking—is possible only because the Self exists. There can be no knowledge or\nperception independent of the Self. Wise men, aware of this, identify\nthemselves with their Higher Self and thus transcend the realm of grief."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "V"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He who knows this Atman, the honey-eater (perceiver and enjoyer\nof objects), ever near, as the lord of the past and future, fears\nno more. This verily is That."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "VI"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He who sees Him seated in the five elements, born of Tapas (fire\nof Brahman), born before water; who, having entered the cave of\nthe heart, abides therein —this verily is That."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "This verse indicates that He, the Great Self, is the cause of all\ncreated objects.  According to the Vedas, His first manifestation\nwas Brahma, the Personal God or Creator, born of the fire of\nwisdom.  He existed before the evolution of the five elements—\nearth, water, fire, air and ether; hence He was \"born before\nwater.\"  He is the Self dwelling in the hearts of all creatures."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "VII"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He who knows Aditi, who rises with Prana (the Life Principle),\nexistent in all the Devas; who, having entered into the heart,\nabides there; and who was born from the elements—this verily is\nThat."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "This verse is somewhat obscure and seems like an interpolated amplification of\nthe preceding verse."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "VIII"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The all-seeing fire which exists hidden in the two sticks, as the\nfoetus is well-guarded in the womb by the mother, (that fire) is\nto be worshipped day after day by wakeful seekers (after wisdom),\nas well as by sacrificers. This verily is That."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fire is called all-seeing because its light makes everything\nvisible.  In Vedic sacrifices the altar fire was always kindled\nby rubbing together two sticks of a special kind of wood called\nArani.  Because fire was regarded as one of the most perfect\nsymbols of Divine wisdom, it was to be worshipped by all seekers\nafter Truth, whether they followed the path of meditation or the\npath of rituals."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "IX"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "From whence the sun rises, and whither it goes at setting, upon\nThat all the Devas depend.  No one goes beyond That. This verily\nis That."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "X"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "What is here (in the visible world), that is there (in the\ninvisible); he who sees difference (between visible and\ninvisible) goes from death to death."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XI"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "By mind alone this is to be realized.  There is no difference\nwhatever (between visible and invisible).  He who sees difference\nhere (between these) goes from death to death."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "In the sight of true wisdom, there is no difference between the creator and\nthe created.  Even physical science has come to recognize that cause and\neffect are but two aspects of one manifestation of energy.  He who fails to\nsee this, being engrossed in the visible only, goes from death to death;\nbecause he clings to external forms which are perishable.  Only the essence\nwhich dwells within is unchangeable and imperishable.  This knowledge of the\noneness of visible and invisible, however, cannot be acquired through\nsense-perception. It can only be attained by the purified mind."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XII"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The Purusha (Self), of the size of a thumb, resides in the middle\nof the body as the lord of the past and the future, (he who knows\nHim) fears no more.  This verily is That."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The seat of the Purusha is said to be the heart, hence It\n\"resides in the middle of the body.\" Although It is limitless and\nall-pervading, yet in relation to Its abiding-place It is\nrepresented as limited in extension, \"the size of a thumb.\" This\nrefers really to the heart, which in shape may be likened to a\nthumb.  Its light is everywhere, yet we see it focused in a lamp\nand believe it to be there only; similarly, although the\nlife-current flows everywhere in the body, the heart is regarded\nas peculiarly its seat."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XIII"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "That Purusha, of the size of a thumb, is like a light without\nsmoke, lord of the past and the future.  He is the same today and\ntomorrow.  This verily is That."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "In this verse the teacher defines the effulgent nature of the Soul, whose\nlight is pure like a flame without smoke.  He also answers the question put by\nNachiketas as to what happens after death, by declaring that no real change\ntakes place, because the Soul is ever the same."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XIV"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "As rain water, (falling) on the mountain top, runs down over the\nrocks on all sides; similarly, he who sees difference (between\nvisible forms) runs after them in various directions."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XV"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "O Gautama (Nachiketas), as pure water poured into pure water\nbecomes one, so also is it with the Self of an illumined Knower\n(he becomes one with the Supreme)."
+  },
+  {
+    "tag": "h4",
+    "innerHtml": "Part Fifth"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The city of the Unborn, whose knowledge is unchanging, has eleven\ngates.  Thinking on Him, man grieves no more; and being freed\n(from ignorance), he attains liberation.  This verily is That."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "This human body is called a city with eleven gates, where the eternal unborn\nSpirit dwells.  These gates are the two eyes, two ears, two nostrils, the\nmouth, the navel, the two lower apertures, and the imperceptible opening at\nthe top of the head.  The Self or Atman holds the position of ruler in this\ncity; and being above the modifications of birth, death and all human\nimperfections, It is not affected by the changes of the physical organism.  As\nthe intelligent man through constant thought and meditation realizes the\nsplendour of this Supreme Spirit, he becomes free from that part of his nature\nwhich grieves and suffers, and thus he attains liberation."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "II"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He is the sun dwelling in the bright heaven; He is the air\ndwelling in space; He is the fire burning on the altar; He is the\nguest dwelling in the house.  He dwells in man.  He dwells in\nthose greater than man.  He dwells in sacrifice.  He dwells in\nthe ether.  He is (all that is) born in water, (all that) is born\nin earth, (all that) is born in sacrifice, (all that) is born on\nmountains.  He is the True and the Great."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "III"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He it is who sends the (in-coming) Prana (life-breath) upward and\nthrows the (out-going) breath downward. Him all the senses\nworship, the adorable Atman, seated in the centre (the heart)."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "IV"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "When this Atman, which is seated in the body, goes out (from the\nbody), what remains then?  This verily is That."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "V"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "No mortal lives by the in-coming breath (Prana) or by the\nout-going breath (Apana), but he lives by another on which these\ntwo depend."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "VI"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "O Gautama (Nachiketas), I shall declare unto thee the secret of\nthe eternal Brahman and what happens to the Self after death."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "VII"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Some Jivas (individual Souls) enter wombs to be embodied; others\ngo into immovable forms, according to their deeds and knowledge."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "This text shows the application of the law of cause and effect to all forms of\nlife.  The thoughts and actions of the present life determine the future birth\nand environment."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "VIII"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The Being who remains awake while all sleep, who grants all\ndesires, That is pure, That is Brahman, That alone is said to be\nimmortal.  On That all the worlds rest.  None goes beyond That.\nThis verily is That."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "IX"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "As fire, though one, having entered the world, becomes various\naccording to what it burns, so does the Atman (Self) within all\nliving beings, though one, become various according to what it\nenters.  It also exists outside."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "X"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "As air, though one, having entered the world, becomes various\naccording to what it enters, so does the Atman within all living\nbeings, though one, become various according to what it enters.\nIt also exists outside."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "By using these similies of fire and air, the teacher tries to show Nachiketas\nthe subtle quality of the great Self, who, although one and formless like air\nand fire, yet assumes different shapes according to the form in which It\ndwells.  But, being all-pervading and unlimited, It cannot be confined to\nthese forms; therefore it is said that It also exists outside all forms."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XI"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "As the sun, the eye of the whole world, is not defiled by\nexternal impurities seen by the eyes, thus the one inner Self of\nall living beings is not defiled by the misery of the world,\nbeing outside it."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The sun is called the eye of the world because it reveals all objects.  As the\nsun may shine on the most impure object, yet remain uncontaminated by it, so\nthe Divine Self within is not touched by the impurity or suffering of the\nphysical form in which it dwells, the Self being beyond all bodily\nlimitations."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XII"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "There is one ruler, the Self of all living beings, who makes the\none form manifold; the wise who perceive Him seated within their\nSelf, to them belongs eternal bliss, not to others."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XIII"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Eternal among the changing, consciousness of the conscious, who,\nthough one, fulfils the desires of many: the wise who perceive\nHim seated within their Self, to them belongs eternal peace, not\nto others."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XIV"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "They (the wise) perceive that indescribable highest bliss,\nsaying, This is That.  How am I to know It?  Does It shine (by\nIts own light) or does It shine (by reflected light)?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XV"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The sun does not shine there, nor the moon, nor the stars; nor do\nthese lightnings shine there, much less this fire.  When He\nshines, everything shines after Him; by His light all is lighted."
+  },
+  {
+    "tag": "h4",
+    "innerHtml": "Part Sixth"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "This ancient Aswattha tree has its root above and branches below.\nThat is pure, That is Brahman, That alone is called the Immortal.\nAll the worlds rest in That.  None goes beyond That.  This verily\nis That."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "This verse indicates the origin of the tree of creation (the Samsara-Vriksha),\nwhich is rooted above in Brahman, the Supreme, and sends its branches downward\ninto the phenomenal world.  Heat and cold, pleasure and pain, birth and death,\nand all the shifting conditions of the mortal realm—these are the branches;\nbut the origin of the tree, the Brahman, is eternally pure, unchanging, free\nand deathless.  From the highest angelic form to the minutest atom, all\ncreated things have their origin in Him.  He is the foundation of the\nuniverse.  There is nothing beyond Him."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "II"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Whatever there is in the universe is evolved from Prana and\nvibrates in Prana.  That is a mighty terror, like an upraised\nthunderbolt.  They who know That become immortal."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "III"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "From fear of Him the fire burns, from fear of Him the sun shines.\nFrom fear of Him Indra and Vayu and Death, the fifth, speed\nforth."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Just as the body cannot live or act without the Soul, similarly\nnothing in the created world can exist independent of Brahman,\nwho is the basis of all existence. His position is like that of a\nking whom all must obey; hence it is said that the gods of sun,\nmoon, wind, rain, do His bidding. He is likened to an upraised\nthunderbolt, because of the impartial and inevitable nature of\nHis law, which all powers, great or small, must obey absolutely."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "IV"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "If a man is not able to know Him before the dissolution of the\nbody, then he becomes embodied again in the created worlds."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "As soon as a man acquires knowledge of the Supreme, he is liberated; but if he\nfails to attain such knowledge before his Soul is separated from the body,\nthen he must take other bodies and return again and again to this realm of\nbirth and death, until through varied experience he realizes the nature of the\nSupreme and his relation to Him."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "V"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "As in a mirror, so is He seen within oneself; as in a dream, so\n(is He seen) in the world of the fathers (departed spirits); as\nin water, so (is He seen) in the world of Gandharvas (the angelic\nrealm).  As light and shadow, so (is He seen) in the world of\nBrahma (the Creator)."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "When by means of a purified understanding one beholds God within, the image is\ndistinct as in a polished mirror; but one cannot have clear vision of the\nSupreme by attaining to the various realms known as heavens, where one reaps\nthe fruit of his good deeds.  It is only by developing one's highest\nconsciousness here in this life that perfect God-vision can be attained."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "VI"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Knowing that the senses are distinct (from the Atman) and their\nrising and setting separate (from the Atman), a wise man grieves\nno more."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "A wise man never confounds the Atman, which is birthless and deathless, with\nthat which has beginning and end.  Therefore, when he sees his senses and his\nphysical organism waxing and waning, he knows that his real Self within can\nnever be affected by these outer changes, so he remains unmoved."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "VII"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Higher than the senses is the mind, higher than the mind is the\nintellect, higher than the intellect is the great Atman, higher\nthan the Atman is the Unmanifested."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "VIII"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Beyond the Unmanifested is the all-pervading and imperceptible\nBeing (Purusha).  By knowing Him, the mortal is liberated and\nattains immortality."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "This division of the individual into senses, mind, intellect,\nself-consciousness, undifferentiated creative energy and the Absolute Self is\nexplained in the commentary of verse XI, Part Third."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "IX"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "His form is not to be seen.  No one can see Him with the eye.  He\nis perceived by the heart, by the intellect and by the mind.\nThey who know this become immortal."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The Supreme, being formless, cannot be discerned by the senses, hence all\nknowledge of Him must be acquired by the subtler faculties of heart, intellect\nand mind, which are developed only through the purifying practice of\nmeditation."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "X"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "When the five organs of perception become still, together with\nthe mind, and the intellect ceases to be active: that is called\nthe highest state."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The teacher now shows Nachiketas the process by which the transcendental\nvision can be attained.  he out-going senses,—seeing, hearing, smelling,\ntouching, tasting; the restless mind and the intellect: all must be indrawn\nand quieted.  The state of equilibrium thus attained is called the highest\nstate, because all the forces of one's being become united and focused; and\nthis inevitably leads to supersensuous vision."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XI"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "This firm holding back of the senses is what is known as Yoga.\nThen one should become watchful, for Yoga comes and goes."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Yoga literally means to join or to unite the lower self with the Higher Self,\nthe object with the subject, the worshipper with God.  In order to gain this\nunion, however, one must first disunite oneself from all that scatters the\nphysical, mental and intellectual forces; so the outgoing perceptions must be\ndetached from the external world and indrawn.  When this is accomplished\nthrough constant practice of concentration and meditation, the union takes\nplace of its own accord.  But it may be lost again, unless one is watchful."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XII"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He cannot be attained by speech, by mind, or by the eye.  How can\nThat be realized except by him who says \"He is\"?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XIII"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He should be realized as \"He is\" and also as the reality of both\n(visible and invisible).  He who knows Him as \"He is,\" to him\nalone His real nature is revealed."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "This supersensuous vision cannot be gained through man's ordinary faculties.\nBy mind, eye, or speech the manifested attributes of the Divine can be\napprehended; but only one who has acquired the supersensuous sight can\ndirectly perceive God's existence and declare definitely that \"He is,\" that He\nalone exists in both the visible and the invisible world."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XIV"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "When all desires dwelling in the heart cease, then the mortal\nbecomes immortal and attains Brahman here."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XV"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "When all the ties of the heart are cut asunder here, then the\nmortal becomes immortal.  Such is the teaching."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XVI"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "There are a hundred and one nerves of the heart.  One of them\npenetrates the centre of the head. Going upward through it, one\nattains immortality.  The other (hundred nerve-courses) lead, in\ndeparting, to different worlds."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The nervous system of the body provides the channels through\nwhich the mind travels; the direction in which it moves is\ndetermined by its desires and tendencies.  When the mind becomes\npure and desireless, it takes the upward course and at the time\nof departing passes out through the imperceptible opening at the\ncrown of the head; but as long as it remains full of desires, its\ncourse is downward towards the realms where those desires can be\nsatisfied."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XVII"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The Purusha, the inner Self, of the size of a thumb, is ever\nseated in the heart of all living beings.  With perseverance man\nshould draw Him out from his body as one draws the inner stalk\nfrom a blade of grass.  One should know Him as pure and\ndeathless, as pure and deathless."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "As has been explained in Part Fourth, verse XII, the inner Self,\nalthough unlimited, is described as \"the size of a thumb\" because\nof its abiding-place in the heart, often likened to a lotus-bud\nwhich is similar to a thumb in size and shape.  Through the\nprocess of steadfast discrimination, one should learn to\ndifferentiate the Soul from the body, just as one separates the\npith from a reed."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XVIII"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Thus Nachiketas, having acquired this wisdom taught by the Ruler\nof Death, together with all the rules of Yoga, became free from\nimpurity and death and attained Brahman (the Supreme).  So also\nwill it be with another who likewise knows the nature of the\nSelf."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "PEACE CHANT"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "May He (the Supreme Being) protect us both.  May He be pleased\nwith us.  May we acquire strength.  May our study bring us\nillumination.  May there be no enmity among us."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OM! PEACE! PEACE! PEACE!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Here ends this Upanishad"
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Kena-upanishad"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Like the Isavasya, this Upanishad derives its name from the\nopening word of the text, Kena-ishitam, \"by whom directed.\"  It\nis also known as the Talavakara-Upanishad because of its place as\na chapter in the Talavakara-Brahmana of the Sama-Veda."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Among the Upanishads it is one of the most analytical and\nmetaphysical, its purpose being to lead the mind from the gross\nto the subtle, from effect to cause.  By a series of profound\nquestions and answers, it seeks to locate the source of man's\nbeing; and to expand his self-consciousness until it has become\nidentical with God-Consciousness."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "KENA-UPANISHAD"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Peace Chant"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "May my limbs, speech, Prana (life-force), sight, hearing,\nstrength and all my senses, gain in vigor.   All is the Brahman\n(Supreme Lord) of the Upanishads.  May I never deny the Brahman.\nMay the Brahman never deny me.  May there be no denial of the\nBrahman.  May there be no separation from the Brahman.  May all\nthe virtues declared in the sacred Upanishads be manifest in me,\nwho am devoted to the Atman (Higher Self).  May they be manifest\nin me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OM! PEACE! PEACE! PEACE!"
+  },
+  {
+    "tag": "h4",
+    "innerHtml": "Part First"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "By whom commanded and directed does the mind go towards its\nobjects?  Commanded by whom does the life-force, the first\n(cause), move?  At whose will do men utter speech?  What power\ndirects the eye and the ear?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Thus the disciple approached the Master and inquired concerning the cause of\nlife and human activity.  Having a sincere longing for Truth he desired to\nknow who really sees and hears, who actuates the apparent physical man.  He\nperceived all about him the phenomenal world, the existence of which he could\nprove by his senses; but he sought to know the invisible causal world, of\nwhich he was now only vaguely conscious.  Is mind all-pervading and\nall-powerful, or is it impelled by some other force, he asked.  Who sends\nforth the vital energy, without which nothing can exist?  The teacher replies:"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "II"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It is the ear of the ear, the mind of the mind, the speech of the\nspeech, the life of the life, the eye of the eye.  The wise,\nfreed (from the senses and from mortal desires), after leaving\nthis world, become immortal."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "An ordinary man hears, sees, thinks, but he is satisfied to know only as much\nas can be known through the senses; he does not analyze and try to find that\nwhich stands behind the ear or eye or mind.  He is completely identified with\nhis external nature.  His conception does not go beyond the little circle of\nhis bodily life, which concerns the outer man only.  He has no consciousness\nof that which enables his senses and organs to perform their tasks."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "There is a vast difference between the manifested form and That which is\nmanifested through the form.  When we know That, we shall not die with the\nbody.  One who clings to the senses and to things that are ephemeral, must die\nmany deaths, but that man who knows the eye of the eye, the ear of the ear,\nhaving severed himself from his physical nature, becomes immortal.\nImmortality is attained when man transcends his apparent nature and finds that\nsubtle, eternal and inexhaustible essence which is within him."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "III"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "There the eye does not go, nor speech, nor mind.  We do not know\nThat; we do not understand how It can be taught.  It is distinct\nfrom the known and also It is beyond the unknown.  Thus we have\nheard from the ancient (teachers) who told us about It."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "These physical eyes are unable to perceive that subtle essence.  Nor can it be\nexpressed by finite language or known by finite intelligence, because it is\ninfinite.  Our conception of knowing finite things is to know their name and\nform; but knowledge of God must be distinct from such knowledge.  This is why\nsome declare God to be unknown and unknowable; because He is far more than eye\nor mind or speech can perceive, comprehend or express.  The Upanishad does not\nsay that He cannot be known.  He is unknowable to man's finite nature.  How\ncan a finite mortal apprehend the Infinite Whole?  But He can be known by\nman's God-like nature."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "IV"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "That which speech does not illumine, but which illumines speech:\nknow that alone to be the Brahman (the Supreme Being), not this\nwhich people worship here."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "V"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "That which cannot be thought by mind, but by which, they say,\nmind is able to think: know that alone to be the Brahman, not\nthis which people worship here."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "VI"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "That which is not seen by the eye, but by which the eye is able\nto see: know that alone to be the Brahman, not this which people\nworship here."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "VII"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "That which cannot be heard by the ear, but by which the ear is\nable to hear: know that alone to be Brahman, not this which\npeople worship here."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "VIII"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "That which none breathes with the breath, but by which breath is\nin-breathed: know that alone to be the Brahman, not this which\npeople worship here."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ordinarily we know three states of consciousness only,—waking, dreaming and\nsleeping.  There is, however, a fourth state, the superconscious, which\ntranscends these.  In the first three states the mind is not clear enough to\nsave us from error; but in the fourth state it gains such purity of vision\nthat it can perceive the Divine.  If God could be known by the limited mind\nand senses, then God-knowledge would be like any other knowledge and spiritual\nscience like any physical science.  He can be known, however, by the purified\nmind only.  Therefore to know God, man must purify himself.  The mind\ndescribed in the Upanishads is the superconscious mind.  According to the\nVedic Sages the mind in its ordinary state is only another sense organ.  This\nmind is limited, but when it becomes illumined by the light of the Cosmic\nIntelligence, or the \"mind of the mind,\" then it is able to apprehend the\nFirst Cause or That which stands behind all external activities."
+  },
+  {
+    "tag": "h4",
+    "innerHtml": "Part Second"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "If thou thinkest \"I know It well,\" then it is certain that thou\nknowest but little of the Brahman (Absolute Truth), or in what\nform He (resideth) in the Devas (minor aspects of Deity).\nTherefore I think that what thou thinkest to be known is still to\nbe sought after."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Having given the definition of the real Self or Brahman, by which mortals are\nable to see, hear, feel and think, the teacher was afraid that the disciple,\nafter merely hearing about It, might conclude that he knew It. So he said to\nhim: \"You have heard about It, but that is not enough. You must experience It.\nMere intellectual recognition will not give you true knowledge of It. Neither\ncan It be taught to you.  The teacher can only show the way.  You must find It\nfor yourself.\""
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Knowledge means union between subject and object.  To gain this union one must\npractice, theory cannot help us.  The previous chapter has shown that the\nknowledge of Brahman is beyond sense-perception: \"There the eye does not go,\nnor speech, nor mind.\"  \"That is distinct from known and also It is beyond the\nunknown.\"  Therefore it was necessary for the teacher to remind the disciple\nthat knowledge based on sense-perception or intellectual apprehension should\nnot be confounded with supersensuous knowledge.  Although the disciple had\nlistened to the teacher with unquestioning mind and was intellectually\nconvinced of the truth of his words, it was now necessary for him to prove by\nhis own experience what he had heard.  Guided by the teacher, he sought within\nhimself through meditation the meaning of Brahman; and having gained a new\nvision, he approached the teacher once more."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "II"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The disciple said: I do not think I know It well, nor do I think\nthat I do not know It.  He among us who knows It truly, knows\n(what is meant by) \"I know\" and also what is meant by \"I know It\nnot.\""
+  },
+  {
+    "tag": "p",
+    "innerHtml": "This appears to be contradictory, but it is not.  In the previous chapter we\nlearned that Brahman is \"distinct from the known\" and \"beyond the unknown.\"\nThe disciple, realizing this, says: \"So far as mortal conception is concerned,\nI do not think I know, because I understand that It is beyond mind and speech;\nyet from the higher point of view, I cannot say that I do not know; for the\nvery fact that I exist, that I can seek It, shows that I know; for It is the\nsource of my being.  I do not know, however, in the sense of knowing the whole\nInfinite Ocean of existence.\"  The word knowledge is used ordinarily to\nsignify acquaintance with phenomena only, but man must transcend this relative\nknowledge before he can have a clear conception of God.  One who wishes to\nattain Soul-consciousness must rise above matter."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The observation of material science being confined to the sense plane, it\nignores what is beyond.  Therefore it must always be limited and subject to\nchange.  It discovered atoms, then it went further and discovered electrons,\nand when it had found the one, it had to drop the other; so this kind of\nknowledge can never lead to the ultimate knowledge of the Infinite, because it\nis exclusive and not inclusive.  Spiritual science is not merely a question of\nmind and brain, it depends on the awakening of our latent higher\nconsciousness."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "III"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He who thinks he knows It not, knows It.  He who thinks he knows\nIt, knows It not.  The true knowers think they can never know It\n(because of Its infinitude), while the ignorant think they know\nIt."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "By this text the teacher confirms the idea that Brahman is unthinkable,\nbecause unconditioned.  Therefore he says: He who considers It beyond thought,\nbeyond sense-perception, beyond mind and speech, he alone has a true\nunderstanding of Brahman.  They who judge a living being from his external\nform and sense faculties, know him not; because the real Self of man is not\nmanifested in his seeing, hearing, speaking.  His real Self is that within by\nwhich he hears and speaks and sees.  In the same way he knows not Brahman who\nthinks he knows It by name and form.  The arrogant and foolish man thinks he\nknows everything; but the true knower is humble.  He says: \"How can I know\nThee, who art Infinite and beyond mind and speech?\"  In the last portion of\nthe text, the teacher draws an impressive contrast between the attitude of the\nwise man who knows, but thinks he does not know; and that of the ignorant who\ndoes not know, but thinks he knows."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "IV"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It (Brahman) is known, when It is known in every state of\nconsciousness.  (Through such knowledge) one attains immortality.\nBy attaining this Self, man gains strength; and by Self-knowledge\nimmortality is attained."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "We have learned from the previous text that the Brahman is\nunknown to those whose knowledge is limited to sense experience;\nbut He is not unknown to those whose purified intelligence\nperceives Him as the basis of all states of consciousness and the\nessence of all things.  By this higher knowledge a man attains\nimmortality, because he knows that although his body may decay\nand die, the subtle essence of his being remains untouched.  Such\nan one also acquires unlimited strength, because he identifies\nhimself with the ultimate Source.  The strength which comes from\none's own muscle and brain or from one's individual power must be\nlimited and mortal and therefore cannot lift one beyond death;\nbut through the strength which Atma-gnana or Self-knowledge\ngives, immortality is reached.  Whenever knowledge is based on\ndirect perception of this undying essence, one transcends all\nfear of death and becomes immortal."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "V"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "If one knows It here, that is Truth; if one knows It not here,\nthen great is his loss.  The wise seeing the same Self in all\nbeings, being liberated from this world, become immortal."
+  },
+  {
+    "tag": "h4",
+    "innerHtml": "Part Third"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The Brahman once won a victory for the Devas.  Through that\nvictory of the Brahman, the Devas became elated.  They thought,\n\"This victory is ours.  This glory is ours.\""
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Brahman here does not mean a personal Deity.  There is a Brahma, the first\nperson of the Hindu Trinity; but Brahman is the Absolute, the One without a\nsecond, the essence of all.  There are different names and forms which\nrepresent certain personal aspects of Divinity, such as Brahma the Creator,\nVishnu the Preserver and Siva the Transformer; but no one of these can fully\nrepresent the Whole.  Brahman is the vast ocean of being, on which rise\nnumberless ripples and waves of manifestation.  From the smallest atomic form\nto a Deva or an angel, all spring from that limitless ocean of Brahman, the\ninexhaustible Source of life.  No manifested form of life can be independent\nof its source, just as no wave, however mighty, can be independent of the\nocean.  Nothing moves without that Power.  He is the only Doer.  But the Devas\nthought: \"This victory is ours, this glory is ours.\""
+  },
+  {
+    "tag": "p",
+    "innerHtml": "II"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The Brahman perceived this and appeared before them.  They did\nnot know what mysterious form it was."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "III"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "They said to Fire: \"O Jataveda (All-knowing)!  Find out what\nmysterious spirit this is.\"  He said: \"Yes.\""
+  },
+  {
+    "tag": "p",
+    "innerHtml": "IV"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He ran towards it and He (Brahman) said to him: \"Who art thou?\"\n\"I am Agni, I am Jataveda,\" he (the Fire-god) replied."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "V"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Brahman asked: \"What power resides in thee?\" Agni replied: \"I can\nburn up all whatsoever exists on earth.\""
+  },
+  {
+    "tag": "p",
+    "innerHtml": "VI"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Brahman placed a straw before him and said: \"Burn this.\"  He\n(Agni) rushed towards it with all speed, but was not able to burn\nit.  So he returned from there and said (to the Devas): \"I was\nnot able to find out what this great mystery is.\""
+  },
+  {
+    "tag": "p",
+    "innerHtml": "VII"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Then they said to Vayu (the Air-god): \"Vayu! Find out what this\nmystery is.\"  He said: \"Yes.\""
+  },
+  {
+    "tag": "p",
+    "innerHtml": "VIII"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He ran towards it and He (Brahman) said to him: \"Who art thou?\"\n\"I am Vayu, I am Matarisva (traveller of Heaven),\" he (Vayu)\nsaid."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "IX"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Then the Brahman said: \"What power is in thee?\"  Vayu replied: \"I\ncan blow away all whatsoever exists on earth.\""
+  },
+  {
+    "tag": "p",
+    "innerHtml": "X"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Brahman placed a straw before him and said: \"Blow this away.\"  He\n(Vayu) rushed towards it with all speed, but was not able to blow\nit away.  So he returned from there and said (to the Devas): \"I\nwas not able to find out what this great mystery is.\""
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XI"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Then they said to Indra: \"O Maghavan (Worshipful One)!  Find out\nwhat this mystery is.\"  He said: \"Yes\"; and ran towards it, but\nit disappeared before him."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "XII"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Then he saw in that very space a woman beautifully adorned, Uma\nof golden hue, daughter of Haimavat (Himalaya).  He asked: \"What\nis this great mystery?\""
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Here we see how the Absolute assumes concrete form to give\nknowledge of Himself to the earnest seeker.  Brahman, the\nimpenetrable mystery, disappeared and in His place appeared a\npersonal form to represent Him.  This is a subtle way of showing\nthe difference between the Absolute and the personal aspects of\nDeity.  The Absolute is declared to be unknowable and\nunthinkable, but He assumes deified personal aspects to make\nHimself known to His devotees.  Thus Uma, daughter of the\nHimalaya, represents that personal aspect as the offspring of the\nInfinite Being; while the Himalaya stands as the symbol of the\nEternal, Unchangeable One."
+  },
+  {
+    "tag": "h4",
+    "innerHtml": "Part Fourth"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "She (Uma) said: \"It is Brahman.  It is through the victory of\nBrahman that ye are victorious.\"  Then from her words, he (Indra)\nknew that it (that mysterious form) was Brahman."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Uma replied to Indra, \"It is to Brahman that you owe your victory.  It is\nthrough His power that you live and act.  He is the agent and you are all only\ninstruments in His hands.  Therefore your idea that 'This victory is ours,\nthis glory is ours,' is based on ignorance.\"  At once Indra saw their mistake.\nThe Devas, being puffed up with vanity, had thought they themselves had\nachieved the victory, whereas it was Brahman; for not even a blade of grass\ncan move without His command."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "II"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Therefore these Devas,—Agni, Vayu and Indra—excel other Devas,\nbecause they came nearer to Brahman.  It was they who first knew\nthis spirit as Brahman."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "III"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Therefore Indra excels all other Devas, because he came nearest\nto Brahman, and because he first (before all others) knew this\nspirit as Brahman."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Agni, Vayu and Indra were superior to the other Devas because they gained a\ncloser vision; and they were able to do this because they were purer; while\nIndra stands as the head of the Devas, because he realized the Truth directly,\nhe reached Brahman.  The significance of this is that whoever comes in direct\ntouch with Brahman or the Supreme is glorified."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "IV"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Thus the teaching of Brahman is here illustrated in regard to the\nDevas.  He dashed like lightning, and appeared and disappeared\njust as the eye winks."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The teaching as regards the Devas was that Brahman is the only Doer.  He had\nappeared before them in a mysterious form; but the whole of the unfathomable\nBrahman could not be seen in any definite form; so at the moment of vanishing,\nHe manifested more of His immeasurable glory and fleetness of action by a\nsudden dazzling flash of light."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "V"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Next (the teaching) is regarding Adhyatman (the embodied Soul).\nThe mind seems to approach Him (Brahman).  By this mind (the\nseeker) again and again remembers and thinks about Brahman."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Only by the mind can the seeker after knowledge approach Brahman, whose nature\nin glory and speed has been described as like unto a flash of lightning.  Mind\nalone can picture the indescribable Brahman; and mind alone, being swift in\nits nature, can follow Him.  It is through the help of this mind that we can\nthink and meditate on Brahman; and when by constant thought of Him the mind\nbecomes purified, then like a polished mirror it can reflect His Divine Glory."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "VI"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "That Brahman is called Tadvanam (object of adoration).  He is to\nbe worshipped by the name Tadvanam.  He who knows Brahman thus,\nis loved by all beings."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Brahman is the object of adoration and the goal of all beings.\nFor this reason he should be worshipped and meditated upon as\nTadvanam.  Whoever knows Him in this aspect becomes one with Him,\nand serves as a clear channel through which the blessings of\nBrahman flow out to others.  The knower of God partakes of all\nHis lovable qualities and is therefore loved by all true\ndevotees."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "VII"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The disciple asked: O Master, teach me the Upanishad.  (The\nteacher replied:) The Upanishad has been taught thee.  We have\ncertainly taught thee the Upanishad about Brahman."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "VIII"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The Upanishad is based on tapas (practice of the control of body,\nmind and senses), dama (subjugation of the senses), karma (right\nperformance of prescribed actions).  The Vedas are its limbs.\nTruth is its support."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "IX"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He who knows this (wisdom of the Upanishad), having been cleansed\nof all sin, becomes established in the blissful, eternal and\nhighest abode of Brahman, in the highest abode of Brahman."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Here ends this Upanishad."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "p",
+    "innerHtml": "This Upanishad is called Kena, because it begins with the\ninquiry: \"By whom\" (Kena) willed or directed does the mind go\ntowards its object?  From whom comes life?  What enables man to\nspeak, to hear and see?  And the teacher in reply gives him the\ndefinition of Brahman, the Source and Basis of existence.  The\nspirit of the Upanishads is always to show that no matter where\nwe look or what we see or feel in the visible world, it all\nproceeds from one Source."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The prevailing note of all Vedic teaching is this: One tremendous\nWhole becoming the world, and again the world merging in that\nWhole.  It also strives in various ways to define that Source,\nknowing which all else is known and without which no knowledge\ncan be well established.  So here the teacher replies: That which\nis the eye of the eye, the ear of the ear, that is the\ninexhaustible river of being which flows on eternally; while\nbubbles of creation rise on the surface, live for a time, then\nburst."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The teacher, however, warns the disciple that this eye, ear,\nmind, can never perceive It; for It is that which illumines\nspeech and mind, which enables eye and ear and all\nsense-faculties to perform their tasks.  \"It is distinct from the\nknown and also It is beyond the unknown.\"  He who thinks he knows\nIt, knows It not; because It is never known by those who believe\nthat It can be grasped by the intellect or by the senses; but It\ncan be known by him who knows It as the basis of all\nconsciousness."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The knower of Truth says, \"I know It not,\" because he realizes\nthe unbounded, infinite nature of the Supreme.  \"Thou art this\n(the visible), Thou art That (the invisible), and Thou art all\nthat is beyond,\" he declares.  The ordinary idea of knowledge is\nthat which is based on sense preceptions; but the knowledge of an\nillumined Sage is not confined to his senses.  He has all the\nknowledge that comes from the senses and all that comes from\nSpirit."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The special purpose of this Upanishad is to give us the knowledge\nof the Real, that we may not come under the dominion of the ego\nby identifying ourselves with our body, mind and senses.  Mortals\nbecome mortals because they fall under the sway of ego and depend\non their own limited physical and mental strength.  The lesson of\nthe parable of the Devas and Brahman is that there is no real\npower, no real doer except God.  He is the eye of the eye, the\near of the ear; and eyes, ears, and all our faculties have no\npower independent of Him.  When we thus realize Him as the\nunderlying Reality of our being, we transcend death and become\nimmortal."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OM! PEACE! PEACE! PEACE!"
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "The End"
+  }
+]
